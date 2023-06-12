@@ -1,4 +1,4 @@
-/* Query to Find all suppliers who provide products in the ‘Seafood’ category */
+/* uery to Find all suppliers who provide products in the ‘Seafood’ category */
 
 SELECT distinct suppliers.supplier_id, suppliers.company_name, suppliers.contact_name
 FROM suppliers
